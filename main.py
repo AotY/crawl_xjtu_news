@@ -4,12 +4,15 @@ from url import UrlManager
 from download import get_response
 
 home_urls = [
-    'http://news.xjtu.edu.cn/zyxw.htm', # 主页新闻
-    # 'http://news.xjtu.edu.cn/zhxw.htm', # 综合新闻
-    # 'http://news.xjtu.edu.cn/jyjx.htm', # 教育教学
-    # 'http://news.xjtu.edu.cn/kydt/htm', # 科研动态
-    # 'http://news.xjtu.edu.cn/ybdt.htm', # 院部动态
-    # 'http://news.xjtu.edu.cn/xysh.htm', # 校园生活
+    # 'http://news.xjtu.edu.cn/zyxw.htm', # 主页新闻
+    'http://news.xjtu.edu.cn/zhxw.htm', # 综合新闻
+    'http://news.xjtu.edu.cn/jyjx.htm', # 教育教学
+    'http://news.xjtu.edu.cn/kydt.htm', # 科研动态
+    'http://news.xjtu.edu.cn/ybdt.htm', # 院部动态
+    'http://news.xjtu.edu.cn/xysh.htm', # 校园生活
+    'http://news.xjtu.edu.cn/syjt.htm', # 思源讲堂
+    'http://news.xjtu.edu.cn/rwfc.htm', # 人物风采
+    'http://news.xjtu.edu.cn/mtjd.htm', # 媒体交大
 
 ]
 
